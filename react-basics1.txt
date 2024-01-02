@@ -1,0 +1,23 @@
+React :- 
+- React is the JS library with which we can develop UI.
+- Magical Line:- React is all about components.
+   - Component : A Reusable piece of code.
+
+Why React :-
+ - Reusablility increase
+ - Not repeat
+ - Readability increase
+ - Maintainable 
+
+When you use HTML CSS and JS then you use imperial approach where you have more code and you define every step line by line.
+Declaration Approach - While using Reach code length get decrease , you have to define end state only and rest react will do. This make code faster.
+
+SPA(Single Page Application) : React follows SPA 
+When you click on the single link on html page then the content will be displayed on same html page
+Means single page -> on clicking link different content on same html page 
+
+---------------------------------------------------------------------------------------------------
+
+Component : A Reusable piece of code 
+- Naming Convention :- PascalNotation
+
