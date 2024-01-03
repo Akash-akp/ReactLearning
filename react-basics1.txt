@@ -21,3 +21,16 @@ Means single page -> on clicking link different content on same html page
 Component : A Reusable piece of code 
 - Naming Convention :- PascalNotation
 
+
+---------------------------------------------------------------------------------------------------
+
+Use State:-
+In React, the useState is a Hook that allows functional components to have state variables. It is used to declare state variables and provide a way for components to manage and update their state.
+const [variable,setVariable] = useState(props.variable);
+
+---------------------------------------------------------------------------------------------------
+
+2 thing that is different in React that is :-
+   1. addEventListener nahi use karna -> onClick use karna hai
+   2. UI change karne ke liye -> useState use karna
+
